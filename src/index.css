@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited{
+    color: white;
+}
+a:hover{
+    color: orange;
+}
+body{
+    margin: 0;
+    color: white;
+}
+.button-width{
+    margin-right: 5%;
+    margin-left: 5%;
+
+
+}
+.button-margin{
+    margin-top: 5%;
+}
+.subtitle{
+    color: orange;
+}
+.footer-icon{
+    margin-right: 10%;;
+}
+.example{
+    background-color: #23252C;
+    padding:10%;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+main{
+    padding: 5%;
+    background-color: #1A1B21;
+}
+header{
+    text-align: center;
+    background-color: #1A1B21;
+    padding: 1%;
+}
+Footer{
+    text-align: center;
+    background-color: #161619;
+
+}
