@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Info-Card/static/css/main.937144c6.css",
+    "main.js": "/Info-Card/static/js/main.d5db2002.js",
+    "static/media/bootstrap-icons.woff?": "/Info-Card/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
+    "static/media/bootstrap-icons.woff2?": "/Info-Card/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
+    "index.html": "/Info-Card/index.html",
+    "main.937144c6.css.map": "/Info-Card/static/css/main.937144c6.css.map",
+    "main.d5db2002.js.map": "/Info-Card/static/js/main.d5db2002.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.937144c6.css",
+    "static/js/main.d5db2002.js"
+  ]
+}
